@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Alarum to corporations, or, The giddy sort of hereticks designs unmaskt being a narrative of the unjust, barbarous, inhumane, trayterous practices of some of the Anabaptists and others ... at the town of Brecknock, in opposing the legall election of William Thomas, Esquire, and by force of arms, indeavoured the placing of one of their favourites, to the disturbance of the peace ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26593</idno>
+            <idno type="STC">Wing A827</idno>
+            <idno type="STC">ESTC R8729</idno>
+            <idno type="EEBO-CITATION">11648688</idno>
+            <idno type="OCLC">ocm 11648688</idno>
+            <idno type="VID">47987</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26593)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47987)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 4:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Alarum to corporations, or, The giddy sort of hereticks designs unmaskt being a narrative of the unjust, barbarous, inhumane, trayterous practices of some of the Anabaptists and others ... at the town of Brecknock, in opposing the legall election of William Thomas, Esquire, and by force of arms, indeavoured the placing of one of their favourites, to the disturbance of the peace ...</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Page,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Thomas, William, --  Esquire.</term>
+               <term>Anabaptists --  Wales.</term>
+               <term>Persecution.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47987:1"/>
+            <pb facs="tcp:47987:1" rendition="simple:additions"/>
+            <p>AN ALARUM TO CORPORATIONS: OR, THE Giddy ſort of HERETICKS Deſigns, unmaskt.</p>
+            <p>BEING A NARRATIVE OF The unjuſt, Barbarous, Inhumane, Trayterous practices of ſome of the ANABAPTISTS, and others, (to the ſhame of the Profeſſors of Religion) at the Town of <hi>Brecknock,</hi> in oppoſing the Legall Election of <hi>William Thomas</hi> Eſquire; and by force of Arms, indeavoured the placing of one of their favourites, to the diſturbance of the Peace.</p>
+            <p>WHEREIN The Nation is forewarned of their being made perpetuall ſlaves to the Pride, Luſt, and Ambition of a few Inconſiderable Perſons, who aim at nothing leſſe than the ma<g ref="char:EOLhyphen"/>king themſelves Maſters of the Conſciences, Power, Government, Eſtates, Lives, Liberties, and Laws of the Nations.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Page.</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:47987:2" rendition="simple:additions"/>
+            <p>THat, by a <hi>Charter</hi> Granted unto the <hi>Burrough-Town of Br<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cknock in South Wales,</hi> in the ſecond and third years of the Reign of <hi>King Phil p and Queen Mary,</hi> and the anti<g ref="char:EOLhyphen"/>ent <hi>Cuſtomes, Liberties, and Priviledges</hi> of the ſaid Town; It is provided, That the <hi>Common Council</hi> of the ſame Town conſiſt of 15 Perſons; And that they, or <hi>the Major-part of them remaining al<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve,</hi> ſhall on every <hi>Munday</hi> next before the Feaſt of St. <hi>Michael Th'archangel,</hi> chooſe <hi>one of themſelves</hi> to be <hi>Bayliff,</hi> and <hi>two</hi> to be <hi>Aldermen,</hi> and other <hi>Officers</hi> for <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <hi>Well-Government</hi> of that <hi>Corpo<g ref="char:EOLhyphen"/>ration<g ref="char:punc">▪</g>
+               </hi> for that year.</p>
+            <p>In purſuance whereof, on the 26th day of <hi>September</hi> laſt, (being the day appointed for that purpoſe) the <hi>Bayliff, Aldermen, and Common-Council</hi> of the ſaid Town, did meet in the <hi>Guild-Hall</hi> of the ſaid Town, with an intention to proceed in the Election of a <hi>Bayliff,</hi> two <hi>Aldermen,</hi> and other Officers for this year.</p>
+            <p>That Captain <hi>Jenkin Jones,</hi> a <hi>Pastor</hi> of a <hi>Congregated Church;</hi> Captain <hi>John Morgan,</hi> and others of his <hi>Congregation</hi> being of the <hi>Militia</hi> there, minding to chooſe one <hi>John Lewis</hi> (heretofore a Trooper for the late King, and a deboyſt Man, of a ſcandalous Life and Converſation) to be <hi>Bayliff</hi> for this year, being a Perſon by them conceived fit for their purpoſe: And finding the Major-part of the <hi>Common-Council</hi> had an intention to Elect <hi>William Thomas</hi> 
+               <abbr>Eſq</abbr> a Perſon <hi>well-affected,</hi> to be <hi>Bayliff,</hi> and other <hi>qualified Officers</hi> of <hi>known Integrity,</hi> befitting thoſe Places wherewith they we e to be Intruſted; The ſaid Souldiers, being led by the ſaid <hi>Captain John Morgan,</hi> and others with him hired for that End, in an <hi>armed poſture</hi> did enter the ſaid Town, on the ſaid day of <hi>Election,</hi> and having placed their ſeveral <hi>Guards of Horſe and Foot</hi> there, with an intention to <hi>terrifie</hi> the <hi>Free Electors</hi> (who nevertheleſſe purſu<g ref="char:EOLhyphen"/>ed their former Reſolution of chooſing Mr. <hi>Thomas</hi>); the ſaid Offi<g ref="char:EOLhyphen"/>cers and Souldiers (having one <hi>Lewis Jones the Sheriff</hi> to joyn with them in this confederacy,) they by colour of a <hi>mean</hi> proceſs (for not mending a High W<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y) iſſued out of the <hi>Seſſions</hi> there, <hi>frandulently</hi> ſued out, and prepared for that purpoſe, with a premeditate deſigne to
+<pb n="3" facs="tcp:47987:2"/> be then Executed, to obſtruct their free Election<g ref="char:punc">▪</g>) did Impriſon five of the <hi>Common-Council,</hi> who Voted for Mr. <hi>Thomas,</hi> and kept them Priſoners without Bayle, or main-priſe though Bayle was offered, un<g ref="char:EOLhyphen"/>til five (being <hi>the leſſer number</hi>) had Elected the ſaid <hi>John Lewis,</hi> ac<g ref="char:EOLhyphen"/>cording to the <hi>Will and Pleaſure</hi> of the ſaid <hi>Captains</hi> and their <hi>armed Souldiers,</hi> who were firſt raiſed by the <hi>Parliament,</hi> for the <hi>Defence of the People's Rights and Liberties,</hi> and <hi>Preſervation of the publick Peace</hi> (which they herein highly violated), and then ſtood <hi>disband<g ref="char:EOLhyphen"/>ed by Order of Parliament,</hi> and had no <hi>Commiſſion</hi> at all, or other pretence, to muſter or aſſemble themſelves there, at that time.</p>
+            <p>As ſoon as the <hi>Common-Council</hi> men were <hi>inlarged,</hi> they did immediatly, on the ſame day, <hi>aſſemble themſelves</hi> in the <hi>Guild-hall;</hi> and conſiſting of 9 (being <hi>the major number</hi>), did, according to their <hi>Charter</hi> (which limits no hour of the day for that Service) duly chuſe the ſaid Mr. <hi>William Thomas</hi> their <hi>Bayliff; Richard Creed</hi> and <hi>Thomas Roberts</hi> their <hi>Aldermen;</hi> and other Officers, according to the uſual manner, for this year; and intended, on Munday fol<g ref="char:EOLhyphen"/>lowing (being the uſual time), to ſwear the ſaid <hi>Bayliff</hi> and <hi>Officers</hi> accordingly.</p>
+            <p>That the ſaid Capt. <hi>John Morgan,</hi> and other the <hi>Officers</hi> and <hi>Sol<g ref="char:EOLhyphen"/>diers</hi> aforeſaid, intending to prevent the <hi>Common-Council</hi> from <hi>ſwea<g ref="char:EOLhyphen"/>ring</hi> Mr. <hi>Thomas,</hi> and other the <hi>Officers duly choſen,</hi> and being abet<g ref="char:EOLhyphen"/>ted, and hired with money, did on the <hi>Lord</hi>'s <hi>day</hi> following, in <hi>like armed Poſture,</hi> enter the ſaid Town with <hi>Horſe</hi> and <hi>Foot,</hi> and placed ſeveral <hi>Guards</hi> and <hi>Centries</hi> about the <hi>Houſe</hi> of the ſaid Mr. <hi>Thomas, the Bayliff elected,</hi> and <hi>impriſoned</hi> Him, and ſeveral Others of the <hi>Common-Councill</hi> and <hi>Burgeſſes,</hi> and placed another <hi>Guard</hi> in the <hi>Guild-hall,</hi> and in other places in the <hi>Town,</hi> not permitting Mr. <hi>Tho<g ref="char:EOLhyphen"/>mas,</hi> and the <hi>Common-Councill</hi> that choſe him, to come to the <hi>Guild-hall</hi> to <hi>ſwear</hi> their <hi>Bayliff</hi> and <hi>Officers.</hi> And in the mean time, five of the <hi>Council,</hi> who joyned with the Souldiers, did ſwear <hi>John Lew<g ref="char:EOLhyphen"/>es,</hi> choſen by them (being the leſſer number), and ſuch Other <hi>Offi<g ref="char:EOLhyphen"/>cers</hi> as they pleaſed, and continued in this <hi>armed poſture</hi> for two <hi>nights</hi> and one <hi>day,</hi> to the great <hi>Terror</hi> of the <hi>Bayliff, Common-Coun<g ref="char:EOLhyphen"/>cil,</hi> and <hi>Burgeſſes</hi> of that <hi>Town;</hi> on whom they committed many <hi>Inſolencies,</hi> and would not ſuffer either <hi>Meat</hi> or <hi>Drink</hi> to be carried to the ſaid <hi>Bayliff Thomas,</hi> whom they kept <hi>cloſe Priſoner</hi> in his <hi>own Houſe,</hi> during all that time.</p>
+            <pb n="4" facs="tcp:47987:3"/>
+            <p>That the ſaid Mr. <hi>William Thomas</hi> being of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rwards <hi>duly ſworn,</hi> according to the <hi>Charter</hi> in the preſence of the <hi>Old Bayliff,</hi> and ten of the <hi>Common-Councill,</hi> and a Writ of <hi>Mandamus</hi> out of the <hi>Upper-Bench</hi> granted for that purpoſe, (no day being prefixed by the <hi>Char<g ref="char:EOLhyphen"/>ter,</hi> for the adminiſtring the Oath): And being with his <hi>Aldermen</hi> and <hi>Officers</hi> in the <hi>peaceable Execution of their Offices;</hi> the ſaid <hi>Mi<g ref="char:EOLhyphen"/>l tia Souldiers,</hi> being the third time <hi>h red</hi> by <hi>John Lewes</hi> and <hi>abetted</hi> by their <hi>Officers,</hi> did march into the ſaid <hi>Town</hi> with <hi>Horſe</hi> and <hi>Foot,</hi> and, having placed their ſeverall <hi>Guards,</hi> did enter the <hi>Town-Goal,</hi> and <hi>releaſed</hi> ſuch <hi>Priſoners</hi> as they pleaſed, <hi>aſſaulting</hi> and <hi>impriſoning</hi> ſeveral of the <hi>Burgeſſes; the Charter</hi> and <hi>antient Records</hi> being alſo taken away and <hi>imbezilled,</hi> and to this day kept in unknown places; and many other <hi>Inſolencies</hi> committed to the high <hi>Infringement</hi> of their <hi>antient Rights, Liberties,</hi> and <hi>Priviledges</hi> of the ſaid <hi>Town,</hi> and <hi>Violation</hi> of the <hi>publick Peace.</hi> Whereupon, the whole <hi>Town</hi> aſſem<g ref="char:EOLhyphen"/>bled themſelves together in Arms (according the uſual manner, on rowling the Bell,) for <hi>Defence</hi> of the <hi>Bayliff</hi> and <hi>Burgeſſes,</hi> who were in danger of their Lifes by theſe <hi>inhumane</hi> Souldiers, who threat<g ref="char:EOLhyphen"/>ned to <hi>ſuppreſs</hi> and <hi>ruine</hi> the whole <hi>Corporation;</hi> and finding the <hi>Town</hi> too powerfull for them, their <hi>Officers</hi> promiſed they wou'd depart home without doing any further harm, if Mr. <hi>Thomas,</hi> the <hi>Bayliff,</hi> would diſmiſs the <hi>Burgeſſes.</hi>
+            </p>
+            <p>The <hi>Bayliff</hi> being unwilling to ingage the Town in <hi>bloud,</hi> and ready to prevent further miſchief, and to proceed againſt the <hi>Male<g ref="char:EOLhyphen"/>factors</hi> by due <hi>courſe of Law,</hi> did require the <hi>Burgeſſes</hi> to go in peace to their houſes, who obſerved his commands accordingly; and the <hi>Militia-Souldiers</hi> promiſed to depart the Town; But having no ſuch intentions, but a <hi>deceitfull</hi> and <hi>wicked</hi> purpoſe, when the <hi>Townſ<g ref="char:EOLhyphen"/>men</hi> were diſperſed to their houſes, with force of Arms to <hi>aſſault</hi> them, did unawares <hi>dangerouſly wound</hi> divers of the quiet <hi>Burgeſſes,</hi> without any cauſe or provocation; ſome of them having loſt their limbs, having no weapons to defend themſelves againſt this <hi>preme<g ref="char:EOLhyphen"/>ditated miſchief</hi> deſigned againſt them, who threatned their <hi>ruine,</hi> and the <hi>ſuppreſſing</hi> of the whole <hi>Corporation:</hi> and Captain <hi>John Mor<g ref="char:EOLhyphen"/>gan</hi> (one of their <hi>rude leaders</hi>) hath ſince told one of the <hi>Burgeſſes</hi> at the door of the <hi>Committee of Safety,</hi> that he would <hi>overthrow the Corporation,</hi> and hoped ere long to ſee all the <hi>Corporations</hi> in <hi>England</hi> and <hi>VVales ſuppreſſed,</hi> which afterwards neceſſitated the. Town to
+<pb n="5" facs="tcp:47987:3"/> keep ſtricter Guards for defence of their <hi>l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ves</hi> and <hi>Liberties,</hi> in ſo eminent danger to be at once deſtroyed. Which theſe <hi>Janizaries</hi> per<g ref="char:EOLhyphen"/>ceiving, and fearing their <hi>unpracticable unchristian</hi> proceedings (de<g ref="char:EOLhyphen"/>ſtructive to all <hi>Corporations and civill Societies</hi>) ſhould be made known, and they proceeded againſt accordingly: The <hi>Countenan<g ref="char:EOLhyphen"/>cers Comforters,</hi> and <hi>Abettors</hi> of theſe ſeverall <hi>Riotts,</hi> did, by many <hi>falſe Letters, Meſſengers,</hi> and <hi>applications</hi> to divers members of the Committee of Safety, and eminent Officers of the <hi>Army miſ-repre<g ref="char:EOLhyphen"/>ſent matter of Fact,</hi> and excuſe themſelves, and lay the blame on the poor <hi>oppreſſed innocent Townſmen,</hi> who were alſo Obliged, as much as in them lay, to make known the truth of their <hi>grievous complaint,</hi> which produced a <hi>Reference</hi> to the <hi>Governour of Hereford,</hi> and the ſaid Captain <hi>Jenkin Jones</hi> (whoſe friends, relations, and Church-members, were the main <hi>Inſtruments</hi> and <hi>Actors</hi> of all theſe <hi>outrages</hi>). And the <hi>Bayliff, Aldermen, and Burgeſſes,</hi> having attended the <hi>Governor</hi> with <hi>honest credible VVitneſſes,</hi> to prove the <hi>truth</hi> of the <hi>premiſes;</hi> He having no power to examine on Oath, forbore to cer<g ref="char:EOLhyphen"/>tify the ſame; But did report, as his Opinion, with the aſſiſtance and concurrence of Captain <hi>Jenkin Jones,</hi> that neither <hi>John Lewes,</hi> nor <hi>VVilliam Thomas</hi> the <hi>Bayliff</hi> were <hi>legally elected;</hi> And that he con<g ref="char:EOLhyphen"/>ceived it fit that <hi>Henry Powell,</hi> heretofore <hi>Bayliff,</hi> ſhould be appoint<g ref="char:EOLhyphen"/>ed <hi>Bayliff</hi> for this year. Which <hi>Report,</hi> the <hi>Committee</hi> of <hi>Safety con<g ref="char:EOLhyphen"/>firmed,</hi> and accordingly <hi>nominated,</hi> and appointed the ſaid <hi>Henry Powell</hi> to be the <hi>Bayliff</hi> for this year. And although the Town have ſent up one of the Common Councill, with their Humble <hi>Petition</hi> and <hi>addreſſe</hi> to the <hi>Committee</hi> of <hi>Safety,</hi> to pray a re-hearing before <hi>indifferent unconcerned perſons,</hi> offering by <hi>VVitneſſes on Oath,</hi> to prove every particular of their <hi>Complaint;</hi> Or elſe that they would leave the fame to be determined <hi>by Law;</hi> Giving them to underſtand, That they are adviſed by <hi>Learned Counſell,</hi> that this Order will tend to the <hi>extinguiſhment</hi> and <hi>forfeiture</hi> of their <hi>Charter,</hi> and totall <hi>over<g ref="char:EOLhyphen"/>throw</hi> of their Corporation, their <hi>Charter</hi> limiting a <hi>preciſe day</hi> for <hi>Electing</hi> a <hi>Bayliff</hi> by the <hi>major part</hi> of the <hi>Common Councill;</hi> and if a <hi>Bayliff</hi> be elected on any other day, or by any other perſons, in any other Mannor, ſuch Election they conceived to be void by Law, and the tenure of their Charter; and the exerciſing of that Office by <hi>Henry Powell,</hi> who was never choſen by the Councill, nor can be now legally ſworn; and the <hi>deſiſting</hi> of the <hi>Execution</hi> of that <hi>Office</hi>
+               <pb n="6" facs="tcp:47987:4"/> by <hi>William Thomas</hi> duely <hi>choſen</hi> and <hi>ſworn,</hi> in <hi>Obedience</hi> to their Order, will cauſe an abſolute <hi>Forfeiture</hi> of their <hi>Charter,</hi> to the undo<g ref="char:EOLhyphen"/>ing of that <hi>Town</hi> and the <hi>Inhabitants</hi> thereof, having therein 4 Pariſhes very populous, and hitherto lived very happily and plentifully, their well-being depending on the Continuance of their antient <hi>Rights</hi> and <hi>Liberties;</hi> and prayed to be heard by their <hi>Counſel learned,</hi> to give their Honours ſatisfaction in matter of Law: Yet the Com<g ref="char:EOLhyphen"/>mittee did not think fit to alter or revoke their Order, grounded on the <hi>Single Certificate</hi> aforeſaid, without <hi>Examination of Wineſſes on Oath;</hi> and the <hi>Prooffs,</hi> tendred by the <hi>Townſmen,</hi> were <hi>omitted</hi> out of the <hi>Report.</hi>
+            </p>
+            <p>And whereas this <hi>oppreſſed Burrough</hi> well-hoped to have the <hi>inſo<g ref="char:EOLhyphen"/>ſent, unpreſidented,</hi> and <hi>unſufferable practiſes</hi> of the <hi>Souldiers</hi> puniſhed, their <hi>Ring-leaders</hi> and <hi>Abetters diſcountenanced</hi> and <hi>Caſhiered,</hi> and the <hi>wounded</hi> Inhabitants <hi>repaired;</hi> After all their great Expences, and their ſeverall Journeys to <hi>London,</hi> 120 miles diſtant from their now <hi>Comfortleſs Dwellings</hi> (being Tenants at Will), and their many <hi>Humble Addreſſes</hi> and <hi>Applications</hi> herein, by Themſelves, <hi>Friends,</hi> and <hi>Agents:</hi> They are now like to loſe their <hi>Blood</hi> ſpilt by <hi>merci<g ref="char:EOLhyphen"/>leſs Souldiers,</hi> with their <hi>Charter,</hi> undoubted <hi>Rights, Libertyes,</hi> and <hi>Priviledges,</hi> purchaſed by their <hi>Anceſtors,</hi> and for ſo many ſcores of years enjoyed by that <hi>antient,</hi> and heretofore <hi>well governed Town of Brecon,</hi> being the <hi>Shire-Town</hi> for that <hi>County,</hi> and one of the moſt <hi>Eminent</hi> and <hi>Conſiderable Corporations in</hi> South-wales.</p>
+            <div type="section">
+               <head>Obſerve.</head>
+               <p n="1">I. They begin with their evill Practiſes in the remoteſt parts of the Nation, as <hi>Wales;</hi> and if their deſigns take effect there, then they will bring it nearer the Center of the Nation, and at laſt into the City of <hi>London</hi> it ſelf.</p>
+               <p n="2">II. Witneſs the Act for Propagation of the Goſpel in <hi>Wales,</hi> procured by ſome Perſons of the Hypocritical Godly Party, that then were inſtrumental to carry on theſe Deſigns in <hi>Wales;</hi> A good ſtyle, and well penned, but ill executed, and the Intentions of the Parliament perverted.</p>
+               <p>They had Power to eject ſcandalous and ignorant Miniſters, and to ſupply their rooms with Godly learned Miniſters. In ſtead thereof, they ejected all, good and bad promiſcuouſly; their deſign tending to root out the Miniſtry as well as the Miniſters: And in their ſteads did put in a few ignorant, ſcandalous mechanick, Itinerants, that would be contented with ſmall Wages, who have
+<pb n="7" facs="tcp:47987:4"/> ſpread that Country with Schiſme and Hereſy; and for want of thoſe many learned, pious, Miniſters, cauſeleſly ejected, <hi>Wales</hi> is become a Land of Dark<g ref="char:EOLhyphen"/>neſs, overſpread with Heatheniſm, Ignorance, Hereſy, Schiſm, and Profaneneſs. And the Procurators of this Act, and Executioners thereof, in the mean time enriching themſelves with the Treaſure of the Tythes, which for 10 years laſt paſt, in 7 Counties of <hi>South-Wales,</hi> amounts to above two hundred thouſand pounds; And not one penny thereof paid in, or accompted for, to the State, to this day, notwithſtanding the many Addreſſes and Complaints made to all the ſeveral Parliaments, Councils, and Conventions, for 10 years laſt paſt, ſome whereof were broken, <hi>viz.</hi> The laſt Parliament in <hi>Aprill</hi> 1653. by <hi>Oliver Cromavell, <hi>to prevent a due Examination of thoſe Accempts,</hi>
+                  </hi> (if credit may be given to his own Speech to the little Parliament following, and the Acknowledgments of the Propagators themſelves); Theſe guilty Perſons not ſuffering any Parlia<g ref="char:EOLhyphen"/>ment or Convention to perfect any good Work begun by them, or to give way for any good Settlement, well-knowing the ſame to be deſtructive to their De<g ref="char:EOLhyphen"/>ſigns of continuing an Arbitrary Military Power in the hands of Themſelvs.</p>
+               <p>And if the Inhabitants of <hi>Wales</hi> had not been very zealous and diligent in making known the Grand Cheats and Abuſes committed by colour of the ſaid Act, in <hi>Wales;</hi> The like Act had been procured for <hi>England,</hi> as was openly af<g ref="char:EOLhyphen"/>firmed by <hi>Vavaſor Powel,</hi> and others, their evill Inſtruments in <hi>Wales;</hi> And an Act ready contrived by them for that purpoſe. Which if it had paſſed, all the Miniſters of <hi>England,</hi> as well as <hi>Wales,</hi> had been long ſince ejected and expoſed to Poverty and extream Want. And the Anabaptiſts and Sectaries (deſtructive Perſons to all Governments and Common-wealths, except thoſe of their own Fa<g ref="char:EOLhyphen"/>ction) had been in the actual Poſſeſſion of all the Tythes, and Church Revenues, in <hi>England;</hi> and the two famous Univerſities ſuppreſſed, and their Revenue by theſe ignorant Miſcreants poſſeſſed: Which is the Deſign of madd Dr. <hi>Chamber<g ref="char:EOLhyphen"/>lain,</hi> and ſuch idle, unſetled, diſtracted, covetous, Brains, that propoſe a main<g ref="char:EOLhyphen"/>tenance for a Godly Miniſtry, by taking away Tythes.</p>
+            </div>
+         </div>
+         <div type="warning">
+            <head>An Advertiſement.</head>
+            <p>THe foregoing Diſcourſe, giveth an ample Demonſtration of what the Na<g ref="char:EOLhyphen"/>tions are to expect from the hands of thoſe People, that now endeavour to arrive at the top of Supremacy: And to place Themſelves above all Lawes, Order, Right, and Property; That they may have their full ſwing in putting in Execution their Luſts, Pride, and Ambition: Their Ring-leaders have given the example in razing down the Supream Power of the Nation; Corporations were
+<pb n="8" facs="tcp:47987:5"/> Invented as Impa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ments, and ſences againſt Abſoluteneſſe and Tyranny, in their being Governed by a Member of the ſame Liberty for an year, that as the years end, the ſame Perſon that Governed, may become ſubject to Government. The Corporations of <hi>England</hi> are all Commonwealth's. They have continued ſome hundreds of years under Monarchy, They have preſerved their Liberty, and defended Society in an eminent manner: Together with their Forms and Cuſtoms, which, with very little alteration, will conſiſt and fit with the Form of the beſt Conſtituted Commonwealth that can be thought of: theſe People are not againſt the Form, but their aym is at the Power, and when they can<g ref="char:EOLhyphen"/>not attain that, then they deſtroy the Form to come at the Subſtance: They cry down the Lawes and Cuſtoms as Corrupt, that they may Govern by no other Laws then their Luſts Ambition, and Ignorance: By this example, the People of <hi>England</hi> may be forewarned of the enſuing dangers that will inevita<g ref="char:EOLhyphen"/>bly befall <hi>London,</hi> and other Corporations in the Nation; the preventing of which, together with the many other Invaſions of Rights and Liberties, threat<g ref="char:EOLhyphen"/>ned by theſe Levellers, who, under a pre<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nce to get Arms into their Hands, to ſecure the Intereſt of the good People, will Ruine, Deſtroy, and throw down all that we have to defend our Lives, Liberty, and Eſtates; and inſtead thereof Erect a Righteous Government, after the mode of <hi>John</hi> of <hi>Leyden,</hi> and <hi>Knipper<g ref="char:EOLhyphen"/>dolling.</hi> Who had Commiſſion and Call, as they pretended, from God, to kill all the wicked Kings, Magiſtrates, and People, that the Saints might poſſeſſe the Earth; that is to ſay, all thoſe that are not of their perſwaſion. This Deſign of the Anabaptiſts here, hath bin carryed on under-hand this ten years and more by their Confederates; they have obtained a great part of the Places of Truſt and Profit in the three Nations; by which means there hath bin a Seminary of Hypocrites created, Men fit to ayd in any Change of Government, and the Effecting of any Villany whatſoever. Theſe People's deſign doth exend yet further, that is to ſay, not onely to deſtroy the Miniſtry, but alſo the Magiſtra<g ref="char:EOLhyphen"/>cy, that none may be left to preſerve publick Intereſt. And as they judge none fit to bear Arms, and exerciſe Power but this Party: So even by the ſame Rule, they will judge it not fit for any to enjoy Eſtates, either Reall or Perſonall but Themſelves; So that the whole Nation ſhall hold nothing that they Poſſeſſe, by any other Title, but the Courteſies of theſe Monſters of Mankind; It there<g ref="char:EOLhyphen"/>fore behoveth <hi>London,</hi> and all the reſt of the Nation, not to truſt any longer to Religious Pretences and Cheats, but effectually as becometh Men, to endeavour the ſecuring their Lives, Liberties, and Eſtates; which are all like now to be ſwallowed up by a few inconſiderable Perſons, who have bin conſtant Faith-breakers and Kickers againſt Magiſtracy, Miniſtery, Law, Order, Right, and Common Honeſty; who are led by no principle but their own Luſts; Conſider the Dangers now drawing nigh.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
